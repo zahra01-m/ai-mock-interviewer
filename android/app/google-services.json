@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "218825347947",
+    "project_id": "ai-mock-interviewer-d1d08",
+    "storage_bucket": "ai-mock-interviewer-d1d08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218825347947:android:f9865c8be26673cd33722e",
+        "android_client_info": {
+          "package_name": "com.example.ai_mock_interviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218825347947-npahvecihi3b9mnslb1rj79v80o4ruv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ai_mock_interviewer",
+            "certificate_hash": "b50c789eade47f9223ec6841fb6ccae513bf4a3c"
+          }
+        },
+        {
+          "client_id": "218825347947-ckpln20tt017om2u5uulcfju19a25b3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP1NzStDUwtbTIZRDZVHAJW9lF0hpndME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218825347947-ckpln20tt017om2u5uulcfju19a25b3s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218825347947-hknnraq35chqa730h42d78p25caj5gqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiMockInterviewer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
